@@ -1,4 +1,4 @@
-# My Email Template
+# Email Template
 Email boilerplate for newsletters
 
 - full responsive
