@@ -6,3 +6,4 @@ Email boilerplate for newsletters
 
 # Examples
 
+<img src="screenshot.gif" width="100%" />
